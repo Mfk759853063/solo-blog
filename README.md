@@ -10,7 +10,16 @@ kwepvbn 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://www.kwepvbn.com/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.kwepvbn.com/my-github-repos)
+* [Vue 学习笔记(一)](https://www.kwepvbn.com/articles/2019/10/22/1571745930907.html)
+* [SSH 免密码登录](https://www.kwepvbn.com/articles/2019/10/22/1571745895409.html)
+* [打开Mac OSX原生的读写NTFS功能](https://www.kwepvbn.com/articles/2019/10/22/1571745866025.html)
+* [CentOS 7 重装Mysql5.7.25 笔记](https://www.kwepvbn.com/articles/2019/10/22/1571745765812.html)
+* [javascript 学习笔记(一)](https://www.kwepvbn.com/articles/2019/10/22/1571745727894.html)
+* [Git 常用操作](https://www.kwepvbn.com/articles/2019/10/22/1571745678988.html)
+* [CentOS 安装 docker及docker-compose](https://www.kwepvbn.com/articles/2019/10/22/1571745608204.html)
+* [常用命令](https://www.kwepvbn.com/articles/2019/10/22/1571745390535.html)
+* [2019年度计划](https://www.kwepvbn.com/articles/2019/10/22/1571744988135.html)
 
 
 
