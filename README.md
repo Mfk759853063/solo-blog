@@ -10,6 +10,7 @@ kwepvbn 的个人博客
 
 ### 最新
 
+* [定时备份Docker版Mysql数据库](https://www.kwepvbn.com/articles/2019/11/15/1573798658567.html)
 * [解决 Application Loader 一直卡在 “正在通过 App Store 进行鉴定”](https://www.kwepvbn.com/articles/2019/10/26/1572061161667.html)
 * [教你如何撸淘宝及天猫的优惠券](https://www.kwepvbn.com/articles/2019/10/23/1571815009059.html)
 * [我在 GitHub 上的开源项目](https://www.kwepvbn.com/my-github-repos)
